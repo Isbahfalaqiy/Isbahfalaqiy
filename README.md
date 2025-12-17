@@ -5,10 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhamad Isbah Falaqiy</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Frontend+%26+Backend;React+%7C+Laravel+%7C+PostgreSQL;Build+Scalable+Web+Applications;From+Indonesia+🇮🇩" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
