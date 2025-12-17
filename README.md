@@ -6,20 +6,17 @@
 <h1 align="center">Hi 👋, I'm Muhamad Isbah Falaqiy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%7C+Tailwind+CSS;From+Indonesia+🇮🇩" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isbahfalaqiy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Frontend+%26+Backend;React+%7C+PHP+%7C+PostgreSQL;Build+Modern+Web+Apps;From+Indonesia+🇮🇩" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Fokus di **Frontend Development & Modern UI/UX**
-- 🎨 Suka bikin **clean, modern, responsive UI**
-- ⚡ Tech favorit: **React, Tailwind CSS, JavaScript**
+- 💻 **Fullstack Developer** (Frontend & Backend)
+- 🎨 Frontend: **React, Tailwind CSS, Bootstrap**
+- ⚙️ Backend: **PHP, MySQL, PostgreSQL**
+- 🧠 Fokus membangun **web app end-to-end**
 - 🚀 Semua project ada di:
 
 👉 **[My Portfolio](https://myportfolio-hazel-seven-82.vercel.app/)**
@@ -36,10 +33,16 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,mysql,postgres" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgres" />
 </p>
 
 ---
@@ -74,5 +77,5 @@
 ---
 
 <p align="center">
-✨ <b>"Code. Create. Improve."</b> ✨  
+✨ <b>"Build from frontend to backend."</b> ✨  
 </p>
