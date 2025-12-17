@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isbahfalaqiy&label=Profile%20views&color=0e75b6&style=flat" alt="isbahfalaqiy" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://l.instagram.com/?u=https%3A%2F%2Fmyportfolio-hazel-seven-82.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnrOL-_-5b7_2xbY_qqcFHZfO-Uv3J-0tDNoyWkOUql88laNNvfmLgazApRPE_aem_mW_NIcvTz4lwMKCi2NzuKQ&e=AT12cGv9dp5dhD8IDor8iTupLbWwjAkIdQH1hmLiaLLhDL3HHSXq0NY1Rn-k2ItDHam9IkSjWcD2AU6SdoQT4_YGusdTpDxKwFo0CNxh3w](https://l.instagram.com/?u=https%3A%2F%2Fmyportfolio-hazel-seven-82.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnrOL-_-5b7_2xbY_qqcFHZfO-Uv3J-0tDNoyWkOUql88laNNvfmLgazApRPE_aem_mW_NIcvTz4lwMKCi2NzuKQ&e=AT12cGv9dp5dhD8IDor8iTupLbWwjAkIdQH1hmLiaLLhDL3HHSXq0NY1Rn-k2ItDHam9IkSjWcD2AU6SdoQT4_YGusdTpDxKwFo0CNxh3w)
+- 👨‍💻 All of my projects are available at [https://myportfolio-hazel-seven-82.vercel.app/](https://myportfolio-hazel-seven-82.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
